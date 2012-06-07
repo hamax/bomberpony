@@ -1,0 +1,48 @@
+#header {
+	background: url('bomberpony.png') no-repeat;
+	height: 63px;
+	padding: 25px 0 0 110px;
+	font-weight: bold;
+	font-size: 24px;
+	font-family: verdana, sans-serif;
+	width: 743px;
+}
+
+#timer {
+	float: right;
+	margin-right: 100px;
+}
+
+#settings {
+	float: right;
+}
+
+#game {
+	float: left;
+	border: 1px solid black;
+	width: 650px;
+	height: 640px;
+}
+
+#sidebar {
+	width: 200px;
+	height: 640px;
+	margin-left: 652px;
+	border: 1px solid black;
+	border-left: 0;
+}
+
+.title {
+	padding: 3px;
+	border-bottom: 1px dotted gray;
+	font-weight: bold;
+}
+
+.list-element {
+	margin: 3px 0 0 0;
+	padding-left: 10px;
+}
+
+.selected {
+	background: #FFCCFF;
+}
