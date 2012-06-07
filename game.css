@@ -6,6 +6,7 @@
 	font-size: 24px;
 	font-family: verdana, sans-serif;
 	width: 743px;
+	margin: 0 auto;
 }
 
 #timer {
@@ -15,6 +16,11 @@
 
 #settings {
 	float: right;
+}
+
+#content {
+        margin: 0 auto;
+        width: 853px;
 }
 
 #game {
